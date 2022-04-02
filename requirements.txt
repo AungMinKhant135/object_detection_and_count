@@ -1,1 +1,2 @@
 cv2
+pip version 22.0.4
